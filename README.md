@@ -1,5 +1,7 @@
 # FIGMA-practices
 # Creating shadow
+![creating shadow](https://github.com/user-attachments/assets/0e093612-5ab2-465e-8944-8912c93be914)
+
 ![step 1](https://github.com/user-attachments/assets/3e66fa8a-6ec2-4667-adaf-7de7811da34e)
 ![step 2](https://github.com/user-attachments/assets/eade98db-f0da-403c-a29f-8631e2ce052b)
 ![step 3](https://github.com/user-attachments/assets/4315f5ff-5b92-4162-a86f-297e908f13b5)
